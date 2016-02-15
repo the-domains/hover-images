@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-15T16:08:45.775Z'
-dateModified: '2016-02-15T16:02:35.300Z'
+datePublished: '2016-02-15T18:06:28.352Z'
+dateModified: '2016-02-15T18:06:13.931Z'
 title: Hover Images
 author: []
+sourcePath: _posts/2016-02-15-hover-images.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-15-hover-images.md
-published: true
 url: hover-images/index.html
 _type: Article
 
@@ -26,4 +26,4 @@ _type: Article
 
 # Hover Images
 
-Its time for new view...
+Its time for new view... ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/958a8606-517e-4b2b-981f-89476ec29823.jpg)
