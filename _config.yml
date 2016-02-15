@@ -2,12 +2,13 @@ name: Hover Images
 favicon: null
 layout_spectrum: 0.873140889685601
 typography_spectrum: 0.9241675247903913
+title: Hover Images
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-73812127-1
   facebook: null
   twitter: null
 opengraph:
