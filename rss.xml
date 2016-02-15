@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Hover Images]]></title>
+        <description><![CDATA[Hover Images]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 15 Feb 2016 16:09:17 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hover Images]]></title>
+            <description><![CDATA[<article><h1>Hover Images</h1><p>Its time for new view... </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/83e8995c0610b46d6879a86d28d643d2c28a9486.jpg"></article>]]></description>
+            <link>undefinedhover-images/index.html</link>
+            <guid isPermaLink="false">0bad7e83-f612-4b6d-9133-e3fca95f01a9</guid>
+            <pubDate>Mon, 15 Feb 2016 16:08:45 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
